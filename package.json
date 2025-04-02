@@ -1,0 +1,11 @@
+{
+  "name": "fsd-starters",
+  "version": "1.0.0",
+  "description": "FSD starters boilerplate code",
+  "main": "index.js",
+  "author": "nickxsy",
+  "license": "MIT",
+  "scripts": {
+    "vite": "cd vite && pnpm dev"
+  }
+}
