@@ -1,7 +1,7 @@
 import { Footer } from '@/widgets/Footer'
 import { Header } from '@/widgets/Header'
 import { Suspense } from 'react'
-import { AppRouter } from './providers/router'
+import { AppRouter } from './providers'
 import '@mantine/core/styles.css'
 
 import './styles/index.css'
