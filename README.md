@@ -6,6 +6,8 @@ A collection of carefully crafted starters that help me streamline my workflow. 
 
 Always a work in progress. 🚀
 
+All project used react-router, eslint, storybook, husky, vitest, playwright
+
 ---
 
 ## Clone
